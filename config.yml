@@ -26,8 +26,8 @@ params:
     - intro
     - organizer    
     - speakers
-    - schedule    
-    - location
+    # - schedule    
+    # - location
     - cfp
     - deadline
   #  - contact
@@ -73,8 +73,8 @@ params:
     "Spatially Explicit COVID-19 Prediction Models"]
 
   organizer:
-    general_chair: ["Andreas Züfle (Emory University)"]
-    pc_chair: ["Taylor Anderson (George Mason University)", 
+    general_chair: ["Andreas Züfle (Emory University)","Taylor Anderson (George Mason University)"]
+    pc_chair: ["Max Lau, Biostatistics, Rollins School of Public Health, Emory University"
     "Joon-Seok Kim (Oak Ridge National Laboratories)", 
     "Amira Roess (George Mason University)"]
     pc_member: ["Song Gao (University of Wisconsin-Madison)","Alexander Hohl (The University of Utah)", "Yiqun Xie (University of Minnesota)", "Hamdi Kavak (George Mason University)", Di Yang (University of Wyoming), Zipei Fan (The University of Tokyo), Ignacio Segovia-Dominguez	(University of Texas at Dallas), Jia Yu (Washington State University), Michael Desjardins (Johns Hopkins Bloomberg School of Public Health)]
@@ -87,41 +87,41 @@ params:
     camera ready: "October 4, 2024"
     workshopdate: "October 29, 2024"
     submissionsite: "https://easychair.org/my/conference?conf=spatialepi24"
-    studentgrant: "To be announced"
+    # studentgrant: "To be announced"
 
     
     
   #contact:
   
-  speakers:
-     - name: "Max Lau, Biostatistics, Rollins School of Public Health, Emory University"
-       photo: "https://emoryeave.org/wp-content/uploads/MaxLau.jpeg"
-       company: "Emory University"
-       talk: 
-         title: "ASSISTANT PROFESSOR, BIOSTATISTICS, Rollins School of Public Health"
-    #     abstrct: ""
-         bio: "Dr. Max Lau is Assistant Professor at Emory University, Rollins School of Public Health in the Biostatistics Department and is jointly appointed with the Epidemiology Department.  He earned his MPhil in Public Health and statistical modeling of infectious diseases at the University of Hongkong (2011).  He obtained his Ph.D. in statistical modeling of infectious diseases at Heriot-Watt University, Edinburgh (2015).  He completed his post doc work at Princeton University (2018) and began his career at Emory University in 2019.  He has developed new Bayesian methods and modelling techniques for disease data and data integration and designs and teaches graduate level machine learning and modeling classes."
-         href: "https://emoryeave.org/bio/max-lau-phd/"
+  # speakers:
+  #    - name: "Max Lau, Biostatistics, Rollins School of Public Health, Emory University"
+  #      photo: "https://emoryeave.org/wp-content/uploads/MaxLau.jpeg"
+  #      company: "Emory University"
+  #      talk: 
+  #        title: "ASSISTANT PROFESSOR, BIOSTATISTICS, Rollins School of Public Health"
+  #   #     abstrct: ""
+  #        bio: "Dr. Max Lau is Assistant Professor at Emory University, Rollins School of Public Health in the Biostatistics Department and is jointly appointed with the Epidemiology Department.  He earned his MPhil in Public Health and statistical modeling of infectious diseases at the University of Hongkong (2011).  He obtained his Ph.D. in statistical modeling of infectious diseases at Heriot-Watt University, Edinburgh (2015).  He completed his post doc work at Princeton University (2018) and began his career at Emory University in 2019.  He has developed new Bayesian methods and modelling techniques for disease data and data integration and designs and teaches graduate level machine learning and modeling classes."
+  #        href: "https://emoryeave.org/bio/max-lau-phd/"
 
        
-  schedule:
-       - title: "Opening Remarks"
-         time: "15:30-15:35"
-         file: "Frontmatter.pdf"
-       - title: "Keynote"
-         authors: "Max Lau, , Biostatistics, Rollins School of Public Health, Emory University"
-         bio: "Biostatistics, Rollins School of Public Health, Emory University"
-         time: "15:35-16:30"
-       - title: "Optimal Risk-aware POI Recommendations during Epidemics"
-         authors: "Nina Yanin, Manos Papagelis"
-         time: "16:30-16:50"
-         file: "paper_1.pdf"
-       - title: "EPIPOL: An Epidemiological Patterns of Life Simulation (Demonstration Paper)"
-         authors: "Will Kohn, Hossein Amiri, Andreas Züfle"
-         time: "16:50-17:10"
-         file: "paper_2.pdf"
+  # schedule:
+  #      - title: "Opening Remarks"
+  #        time: "15:30-15:35"
+  #        file: "Frontmatter.pdf"
+  #      - title: "Keynote"
+  #        authors: "Max Lau, , Biostatistics, Rollins School of Public Health, Emory University"
+  #        bio: "Biostatistics, Rollins School of Public Health, Emory University"
+  #        time: "15:35-16:30"
+  #      - title: "Optimal Risk-aware POI Recommendations during Epidemics"
+  #        authors: "Nina Yanin, Manos Papagelis"
+  #        time: "16:30-16:50"
+  #        file: "paper_1.pdf"
+  #      - title: "EPIPOL: An Epidemiological Patterns of Life Simulation (Demonstration Paper)"
+  #        authors: "Will Kohn, Hossein Amiri, Andreas Züfle"
+  #        time: "16:50-17:10"
+  #        file: "paper_2.pdf"
          
-       - title: "Closing Remarks"
-         time: "17:10-17:15"
+  #      - title: "Closing Remarks"
+  #        time: "17:10-17:15"
          
             
