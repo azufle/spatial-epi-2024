@@ -1,4 +1,4 @@
-https://azufle.github.io/spatial-epi-2023/
+https://azufle.github.io/spatial-epi-2024/
 # Use GitHub:
 ## Build the Website and publish to GitHub.io page
 
@@ -19,7 +19,7 @@ The website source code is at the `main` branch and the compiled code is at the 
 3. It's done. Just start Hugo server to see it live!
 
         hugo server
-4. Open your browser: http://localhost:1313/spatial-epi-2023/
+4. Open your browser: http://localhost:1313/spatial-epi-2024/
 
 ## Configure the website
 
