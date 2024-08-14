@@ -73,9 +73,8 @@ params:
     "Spatially Explicit COVID-19 Prediction Models"]
 
   organizer:
-    general_chair: ["Andreas Züfle (Emory University)","Taylor Anderson (George Mason University)"]
-    pc_chair: ["Max Lau, Biostatistics, Rollins School of Public Health, Emory University",
-    "Joon-Seok Kim (Oak Ridge National Laboratories)", 
+    general_chair: ["Joon-Seok Kim (Emory University)", "Taylor Anderson (George Mason University)"]
+    pc_chair: ["Andreas Züfle (Emory University)", "Max Lau, Biostatistics, Rollins School of Public Health, Emory University", 
     "Amira Roess (George Mason University)"]
     pc_member: ["Song Gao (University of Wisconsin-Madison)","Alexander Hohl (The University of Utah)", "Yiqun Xie (University of Minnesota)", "Hamdi Kavak (George Mason University)", Di Yang (University of Wyoming), Zipei Fan (The University of Tokyo), Ignacio Segovia-Dominguez	(University of Texas at Dallas), Jia Yu (Washington State University), Michael Desjardins (Johns Hopkins Bloomberg School of Public Health)]
     webchair: ["Hossein Amiri (Emory University)"]
