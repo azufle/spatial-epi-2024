@@ -94,7 +94,7 @@ params:
   
   speakers:
      - name: "Dr. Ben Lopman, Department of Epidemiology, Rollins School of Public Health, Emory University"
-       photo: "https://github.com/azufle/spatial-epi-2024/blob/main/static/images/keynote1.jpg"
+       photo: "/images/keynote1.jpg"
        company: "Emory University"
        talk: 
          title: "TBD"
