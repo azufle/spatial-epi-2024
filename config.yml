@@ -25,7 +25,7 @@ params:
   Sections:
     - intro
     - organizer    
-    # - speakers
+    - speakers
     - schedule    
     - location
     - cfp
@@ -38,7 +38,7 @@ params:
     location: "Location"
     cfp: "Call For Papers"
     organizer: "Organization Committee"
-    # speakers: "Speakers"
+    speakers: "Speakers"
     schedule: "Schedule"
     deadline: "Important Dates"
     # sponsors: "Sponsors"
